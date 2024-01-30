@@ -32,8 +32,6 @@ def plain_text_upper_case(msg, name):
     return plain_text(msg.upper(), name.upper())
 
 
-
-
 def plain_text_lower_case(msg, name):
     return plain_text(msg.lower(), name.lower())
 
